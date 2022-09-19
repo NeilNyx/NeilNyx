@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact: I love to play MOBA games, read Manga, and watching Animes. 
 
-- 👅 another Fun Fact: I love sex.
-
 ---
 
  
