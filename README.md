@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m currently working on my first Ecommerce-Laravel Project.
 
-- 📚 I’m further enhancing my knowledge in PHP-Laravel Framekwork.
+- 📚 I’m further enhancing my knowledge in PHP-Laravel Framework.
 
 - 💪🏼 Future Goals: Learn more programming languages and projects.
 
