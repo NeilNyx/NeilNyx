@@ -8,13 +8,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨‍💻 I’m currently working on my first Ecommerce-Laravel Project.
+- 👨‍💻 I’m currently working on Ecommerce-Laravel Project.
 
 - 📚 I’m further enhancing my knowledge in PHP-Laravel Framework.
 
 - 💪🏼 Future Goals: Learn more programming languages and projects.
 
-- ⚡ Fun fact: I love to play MOBA games, read Manga, and watching Animes. 
+- ⚡ Fun fact: I love to play MOBA games, read Manga, and watch Animes. 
 
 ---
 
